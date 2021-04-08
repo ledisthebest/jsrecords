@@ -1,0 +1,84 @@
+#################### Banner #####################
+banner:
+  enable : true
+  title : "Jumpshot Records"
+  content : "No matter the style or sound, we aim to make records that people will keep playing"
+  image : "images/banner-image/banner-1.jpg"
+  button:
+    enable : true
+    label : "What's New"
+    link : "#products"
+
+#################### Latest Release #####################
+mission:
+  enable : true
+  title : "Latest Release"
+  section : "LOG ON TO GAL"
+  content : "Written By Lyrics Gad<br> Mixed BY John Vex Cobo"
+  video_thumb: "images/GYAL EDIOT.jpg"
+  video_id: "H7x93js3r34"
+
+
+#################### Vision #####################
+#vision:
+#  enable : true
+#  section : "VISION"
+#  vision_item:
+#  - title : "People First"
+#    image : "images/vision/vision-01.jpg"
+#    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    
+#  - title : "Employee Culture"
+#    image : "images/vision/vision-02.jpg"
+#    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+    
+#  - title : "The Omega Way"
+#    image : "images/vision/vision-03.jpg"
+#    content : "I started with a vision of creating an atmosphere where people come first. <br>Paul Sanar Founder"
+
+
+#################### product ####################
+#product:
+#  enable : true
+#  section : "Products"
+#  title : "Some Of Our Best Products"
+#  content : "See the innovation that has come through the Rio way. As an advancement company, the goal is to continuously find areas to help business push forward. Below you can find the first product available to help you do so."
+#  product_item:
+#  - title : "Ecosystem"
+#    image : "images/product/product-03.jpg"
+#    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+#    project_url : "#"
+    
+#  - title : "Objects"
+#    image : "images/product/product-02.jpg"
+#    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+#    project_url : "#"
+    
+#  - title : "Publisher"
+#    image : "images/product/product-03.jpg"
+#    content : "Omega OS Version 2.0 is the world’s first and only cloud operating system. See how this revolutionarys oftware can become the center of your business."
+#    project_url : "#"
+
+
+###################### Contact ####################
+contact:
+  enable : true
+  section : "CONTACT US"
+  title : "About us"
+  image : "images/map-bg.jpg"
+  content : "Jumpshot Records is an independent record label and artist management group based in Calgary, Canada. Launched in 2020, the label was born out of the will to keep the music going in light of parties halting and shows stopping.
+
+We love records so we live to create them. We work to support the position of the recording artist by offering music and video production as well as artist management and development. We enjoy working with artists in all stages of their careers from genres that are all over the court: Reggae, Dancehall, Rap, Reggaeton, Country, Folk.
+
+No matter the style or sound, we aim to make records that people will keep playing.
+
+Live For and Love For Music,
+"
+
+  
+################### call to action #################
+#call_to_action:
+#  enable : true
+#  title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
+#  button_label : "Apply Now"
+#  button_link : "career"
