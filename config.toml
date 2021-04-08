@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "http://jumpshotrecordsltd.com"
+baseURL = "https://jumpshotrecordsltd.github.io"
 title = "Jumpshot Records"
 theme = "omega"
 # google analytics
