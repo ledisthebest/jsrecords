@@ -1,5 +1,5 @@
 ######################## default configuration ####################
-baseURL = "https://ledisthebest.github.io/"
+baseURL = "https://ledisthebest.github.io/jsrecords"
 title = "Jumpshot Records"
 theme = "omega"
 # google analytics
