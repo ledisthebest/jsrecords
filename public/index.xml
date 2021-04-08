@@ -2,15 +2,15 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jumpshot Records</title>
-    <link>https://ledisthebest.github.io/jsrecord/</link>
+    <link>https://ledisthebest.github.io/</link>
     <description>Recent content on Jumpshot Records</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ledisthebest.github.io/jsrecord/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://ledisthebest.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Career</title>
-      <link>https://ledisthebest.github.io/jsrecord/career/</link>
+      <link>https://ledisthebest.github.io/career/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://ledisthebest.github.io/jsrecord/career/</guid>
+      <guid>https://ledisthebest.github.io/career/</guid>
       <description></description>
     </item>
     
