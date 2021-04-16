@@ -63,8 +63,8 @@ mission:
 ###################### Contact ####################
 contact:
   enable : true
-  section : "CONTACT US"
-  title : "About us"
+  section : "About"
+  title : "About Us"
   image : "images/map-bg.jpg"
   content : "Jumpshot Records is an independent record label and artist management group based in Calgary, Canada. Launched in 2020, the label was born out of the will to keep the music going in light of parties halting and shows stopping.
 
@@ -77,8 +77,8 @@ Live For and Love For Music,
 
   
 ################### call to action #################
-#call_to_action:
-#  enable : true
-#  title : "Join the Omega family. <br>Click below to view the career opportunities we have for you."
-#  button_label : "Apply Now"
-#  button_link : "career"
+call_to_action:
+  enable : true
+  title : "Join the competition, <br>We have opportunities for talented individuals like you!"
+  button_label : "Apply Now"
+  button_link : "talent-search"
