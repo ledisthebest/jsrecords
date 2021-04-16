@@ -3,11 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://ledisthebest.github.io/jsrecords/career/</loc>
+    <loc>https://ledisthebest.github.io/jsrecords/categories/</loc>
   </url>
   
   <url>
-    <loc>https://ledisthebest.github.io/jsrecords/categories/</loc>
+    <loc>https://ledisthebest.github.io/jsrecords/chatlyric/</loc>
   </url>
   
   <url>
@@ -16,6 +16,10 @@
   
   <url>
     <loc>https://ledisthebest.github.io/jsrecords/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://ledisthebest.github.io/jsrecords/talent-search/</loc>
   </url>
   
 </urlset>

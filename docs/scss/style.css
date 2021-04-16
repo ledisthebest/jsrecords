@@ -9379,7 +9379,7 @@ body {
   left: 0;
   right: 0;
   bottom: 0;
-  background-color: #0a6446;
+  background-color: #f7da5b;
   transform: scaleX(0);
   transform-origin: 0 50%;
   animation-duration: 1s;
@@ -9577,7 +9577,7 @@ body {
         border-radius: 0;
         border: none;
         letter-spacing: 2px;
-        background: #FF1D5D; }
+        background: #bd0000; }
         @media (max-width: 991px) {
           .hero-slider-wrapper .item .content .hero-btn {
             padding: 20px 30px; } }
@@ -10244,10 +10244,10 @@ ul.social-list li a {
   display: block;
   text-align: center;
   border-radius: 100%;
-  border: 1px solid #0a6446; }
+  border: 1px solid #f7da5b; }
   ul.social-list li a i {
     line-height: 48px;
-    color: #0a6446; }
+    color: #f7da5b; }
 
 .career-featured .block {
   display: flex; }
@@ -10388,13 +10388,13 @@ ul.social-list li a {
       letter-spacing: 1px;
       color: #fff; }
     .jd-modal .modal-content .modal-body .form-control:focus {
-      border-color: #FF1D5D; }
+      border-color: #bd0000; }
   .jd-modal .modal-content .modal-body .form-title {
     margin-bottom: 30px; }
 
 .apply-btn {
   padding: 15px 25px;
-  background: #FF1D5D;
+  background: #bd0000;
   color: #fff;
   border-radius: 0;
   letter-spacing: 2px;
@@ -10413,7 +10413,7 @@ ul.social-list li a {
   width: 100%;
   left: 50%;
   transform: translateX(-50%);
-  background: #FF1D5D;
+  background: #f70021d5;
   display: none; }
   @media (max-width: 991px) {
     .footer {
